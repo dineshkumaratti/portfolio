@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842947458891",
+    "project_id": "man-portfolio-6dd51",
+    "storage_bucket": "man-portfolio-6dd51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842947458891:android:9ba774502dc51f95acdace",
+        "android_client_info": {
+          "package_name": "com.jonam.dinesh_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ap26oP-gaqQHBpBLyWNIJzqSptuw3lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
